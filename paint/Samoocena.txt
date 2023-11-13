@@ -1,0 +1,10 @@
+minusy
+program nie posiada: opcji regulacji grubości ołówka,zapisu liter na obrazie za pomocą klawiatury
+, opcje rysowania są ogranczone do figur: koło kwadrat prostokąt i linia
+
+plusy
+przy pomocy tego programu można realizować podstawowe czynności znane z MS Paint
+program posiada przycisk ujawniający imię i nazwisko autora
+program posiada opcję zapisu
+
+wybór koloru jest realizowany poprzez kliknięcie kursorem w wybrany z pośród kolorów w lewym górnym rogu
