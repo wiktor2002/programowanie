@@ -1,0 +1,24 @@
+C:\Users\student\Desktop\Wprowadzenie do programowania 2023\Szeregi\bin\Debug\Szeregi.exe.config
+C:\Users\student\Desktop\Wprowadzenie do programowania 2023\Szeregi\bin\Debug\Szeregi.exe
+C:\Users\student\Desktop\Wprowadzenie do programowania 2023\Szeregi\bin\Debug\Szeregi.pdb
+C:\Users\student\Desktop\Wprowadzenie do programowania 2023\Szeregi\obj\Debug\Szeregi.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Wprowadzenie do programowania 2023\Szeregi\obj\Debug\Szeregi.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Wprowadzenie do programowania 2023\Szeregi\obj\Debug\Szeregi.KokpitProjektuNr2.resources
+C:\Users\student\Desktop\Wprowadzenie do programowania 2023\Szeregi\obj\Debug\Szeregi.Properties.Resources.resources
+C:\Users\student\Desktop\Wprowadzenie do programowania 2023\Szeregi\obj\Debug\Szeregi.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Wprowadzenie do programowania 2023\Szeregi\obj\Debug\Szeregi.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Wprowadzenie do programowania 2023\Szeregi\obj\Debug\Szeregi.exe
+C:\Users\student\Desktop\Wprowadzenie do programowania 2023\Szeregi\obj\Debug\Szeregi.pdb
+C:\Users\student\Desktop\Wprowadzenie do programowania 2023\Szeregi\obj\Debug\Szeregi.SzeregLaboratoryjny.resources
+C:\Users\wiktor1\Desktop\Szeregi\Szeregi\bin\Debug\Szeregi.exe.config
+C:\Users\wiktor1\Desktop\Szeregi\Szeregi\bin\Debug\Szeregi.exe
+C:\Users\wiktor1\Desktop\Szeregi\Szeregi\bin\Debug\Szeregi.pdb
+C:\Users\wiktor1\Desktop\Szeregi\Szeregi\obj\Debug\Szeregi.csproj.AssemblyReference.cache
+C:\Users\wiktor1\Desktop\Szeregi\Szeregi\obj\Debug\Szeregi.csproj.SuggestedBindingRedirects.cache
+C:\Users\wiktor1\Desktop\Szeregi\Szeregi\obj\Debug\Szeregi.KokpitProjektuNr2.resources
+C:\Users\wiktor1\Desktop\Szeregi\Szeregi\obj\Debug\Szeregi.SzeregLaboratoryjny.resources
+C:\Users\wiktor1\Desktop\Szeregi\Szeregi\obj\Debug\Szeregi.Properties.Resources.resources
+C:\Users\wiktor1\Desktop\Szeregi\Szeregi\obj\Debug\Szeregi.csproj.GenerateResource.cache
+C:\Users\wiktor1\Desktop\Szeregi\Szeregi\obj\Debug\Szeregi.csproj.CoreCompileInputs.cache
+C:\Users\wiktor1\Desktop\Szeregi\Szeregi\obj\Debug\Szeregi.exe
+C:\Users\wiktor1\Desktop\Szeregi\Szeregi\obj\Debug\Szeregi.pdb
