@@ -1,0 +1,8 @@
+C:\Users\wiktor1\Desktop\rownanieKwadratowe\bin\Debug\rownanieKwadratowe.exe.config
+C:\Users\wiktor1\Desktop\rownanieKwadratowe\bin\Debug\rownanieKwadratowe.exe
+C:\Users\wiktor1\Desktop\rownanieKwadratowe\bin\Debug\rownanieKwadratowe.pdb
+C:\Users\wiktor1\Desktop\rownanieKwadratowe\obj\Debug\rownanieKwadratowe.csproj.AssemblyReference.cache
+C:\Users\wiktor1\Desktop\rownanieKwadratowe\obj\Debug\rownanieKwadratowe.csproj.SuggestedBindingRedirects.cache
+C:\Users\wiktor1\Desktop\rownanieKwadratowe\obj\Debug\rownanieKwadratowe.csproj.CoreCompileInputs.cache
+C:\Users\wiktor1\Desktop\rownanieKwadratowe\obj\Debug\rownanieKwadratowe.exe
+C:\Users\wiktor1\Desktop\rownanieKwadratowe\obj\Debug\rownanieKwadratowe.pdb
